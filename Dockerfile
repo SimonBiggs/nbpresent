@@ -1,4 +1,4 @@
-FROM continuumio/miniconda
+FROM andrewosh/binder-base
 
 RUN apt-get install -y libfreetype6-dev libfontconfig1-dev
 
