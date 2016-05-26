@@ -3,6 +3,7 @@
 
 A fork for use with mybinder
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/SimonBiggs/nbpresent)
 
 
 
