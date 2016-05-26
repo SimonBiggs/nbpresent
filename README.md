@@ -1,6 +1,11 @@
 
 # nbpresent
 
+A fork for use with mybinder
+
+
+
+
 [![](https://anaconda.org/anaconda-nb-extensions/nbpresent/badges/build.svg)](https://anaconda.org/anaconda-nb-extensions/nbpresent/builds) [![](https://anaconda.org/anaconda-nb-extensions/nbpresent/badges/installer/conda.svg
 )](https://anaconda.org/anaconda-nb-extensions/nbpresent) [![](https://img.shields.io/pypi/v/nbpresent.svg)](https://pypi.python.org/pypi/nbpresent)
 
