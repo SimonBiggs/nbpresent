@@ -13,3 +13,5 @@ RUN conda install -yq \
 
 COPY ./environment.yml /tmp/environment.yml
 RUN conda env update --file /tmp/environment.yml
+
+RUN conda install -c anaconda-nb-extensions nbpresent
